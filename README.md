@@ -1,4 +1,27 @@
-# YouTube RAG Chatbot
+<h1 align="center">YouTube RAG Chatbot</h1>
+
+<p align="center">
+A Retrieval-Augmented Generation system for querying YouTube videos
+</p>
+
+
+![YouTube RAG Banner](banner.png)
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.10-blue?logo=python"/>
+<img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit"/>
+<img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?logo=huggingface"/>
+<img src="https://img.shields.io/badge/SentenceTransformers-Embeddings-green"/>
+<img src="https://img.shields.io/badge/LangChain-RAG-orange"/>
+<img src="https://img.shields.io/badge/ChromaDB-VectorDB-purple"/>
+<img src="https://img.shields.io/badge/LLM-FLAN--T5-blueviolet"/>
+<img src="https://img.shields.io/badge/License-MIT-black"/>
+<img src="https://img.shields.io/badge/Status-Active-success"/>
+
+</p>
+
+---
 
 ## Overview
 
