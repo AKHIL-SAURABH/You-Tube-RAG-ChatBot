@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+sentence-transformers
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+youtube-transcript-api

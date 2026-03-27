@@ -1,0 +1,7 @@
+rag_dash/
+venv/
+__pycache__/
+*.pyc
+.env
+.chroma/
+*.sqlite3
